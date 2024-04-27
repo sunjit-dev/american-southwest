@@ -4,4 +4,5 @@ Durango
 Taos
 Santa Fe
 Deming
+Carlsbad
 Las Cruces
