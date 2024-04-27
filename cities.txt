@@ -3,4 +3,5 @@ Phoenix
 Durango
 Taos
 Santa Fe
+Deming
 Las Cruces
